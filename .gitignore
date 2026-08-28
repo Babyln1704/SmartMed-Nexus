@@ -1,0 +1,20 @@
+# Large datasets
+twosides.csv
+twosides.parquet
+
+# Uploaded images
+uploaded_*.jpg
+
+# Database
+medicine.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/

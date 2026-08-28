@@ -1,0 +1,776 @@
+brand_name,generic_name
+Crocin,acetaminophen
+Crocin Advance,acetaminophen
+Dolo 650,acetaminophen
+Calpol,acetaminophen
+Calpol 650,acetaminophen
+Calpol 500,acetaminophen
+Pacimol,acetaminophen
+P-650,acetaminophen
+Glycomet,metformin
+Glycomet SR,metformin
+Glycomet 500,metformin
+Glycomet 850,metformin
+Gluconorm,metformin
+Ecosprin,aspirin
+Ecosprin 75,aspirin
+Ecosprin 150,aspirin
+Disprin,aspirin
+Loprin,aspirin
+Aspro,aspirin
+Ciprobid,ciprofloxacin
+Ciplox,ciprofloxacin
+Cifran,ciprofloxacin
+Cifran CT,ciprofloxacin
+Zoxan,ciprofloxacin
+Augmentin,amoxicillin
+Augmentin 625,amoxicillin
+Moxikind CV,amoxicillin
+Clavam,amoxicillin
+Mox,amoxicillin
+Allegra,fexofenadine
+Allegra 120,fexofenadine
+Allegra 180,fexofenadine
+Telfast,fexofenadine
+Cetrizine,cetirizine
+Cetrizet,cetirizine
+Okacet,cetirizine
+Zyrtec,cetirizine
+Atarax,hydroxyzine
+Azithral,azithromycin
+Azee,azithromycin
+Azax,azithromycin
+Zithrox,azithromycin
+Monocef,ceftriaxone
+Taxim-O,cefixime
+Taxim,ceftriaxone
+Suprax,cefixime
+Zifi,cefixime
+Zifi 200,cefixime
+Pantocid,pantoprazole
+Pantop,pantoprazole
+Pan 40,pantoprazole
+Pantodac,pantoprazole
+Omez,omeprazole
+Omez 20,omeprazole
+Ocid,omeprazole
+Rantac,ranitidine
+Rantac 150,ranitidine
+Zinetac,ranitidine
+Aciloc,ranitidine
+Telma,telmisartan
+Telma 40,telmisartan
+Telma 80,telmisartan
+Telsartan,telmisartan
+Eritel,telmisartan
+Amlodac,amlodipine
+Amlopres,amlodipine
+Amlokind,amlodipine
+Stamlo,amlodipine
+Amlong,amlodipine
+Cardace,ramipril
+Cardace 5,ramipril
+Hopace,ramipril
+Ramistar,ramipril
+Losar,losartan
+Losar 50,losartan
+Losacar,losartan
+Repace,losartan
+Atorva,atorvastatin
+Atorva 10,atorvastatin
+Atorva 20,atorvastatin
+Storvas,atorvastatin
+Lipicure,atorvastatin
+Lipvas,atorvastatin
+Rosuvas,rosuvastatin
+Rosuvas 10,rosuvastatin
+Rosuvas 20,rosuvastatin
+Razel,rosuvastatin
+Novastat,rosuvastatin
+Glimestar,glimepiride
+Glimestar M,glimepiride
+Amaryl,glimepiride
+Zoryl,glimepiride
+Gemar,glimepiride
+Janumet,sitagliptin
+Istamet,sitagliptin
+Sitacip,sitagliptin
+Zita,sitagliptin
+Teneligliptin,teneligliptin
+Tenglyn,teneligliptin
+Zita-Met,sitagliptin
+Thyronorm,levothyroxine
+Thyrox,levothyroxine
+Eltroxin,levothyroxine
+Thyrin,levothyroxine
+Betacap,propranolol
+Ciplar,propranolol
+Inderal,propranolol
+Betacard,propranolol
+Metolar,metoprolol
+Metoprolol,metoprolol
+Met XL,metoprolol
+Betaloc,metoprolol
+Concor,bisoprolol
+Concor 5,bisoprolol
+Corbis,bisoprolol
+Biso,bisoprolol
+Dytor,torsemide
+Dytor 10,torsemide
+Torvason,torsemide
+Lasix,furosemide
+Lasix 40,furosemide
+Aldactone,spironolactone
+Aldactone 25,spironolactone
+Diamox,acetazolamide
+Clopitab,clopidogrel
+Clopitab 75,clopidogrel
+Clavix,clopidogrel
+Plavix,clopidogrel
+Deplatt,clopidogrel
+Atorfit CV,atorvastatin
+Rozat,rosuvastatin
+Olsar,olmesartan
+Olsar 20,olmesartan
+Olmezest,olmesartan
+Olmecip,olmesartan
+Aten,atenolol
+Aten 50,atenolol
+Tenormin,atenolol
+Betacard,atenolol
+Betaxl,atenolol
+Nicardia,nifedipine
+Depin,nifedipine
+Calcigard,nifedipine
+Adalat,nifedipine
+Angicam,nifedipine
+Cilacar,cilnidipine
+Cilacar 10,cilnidipine
+Nexovas,cilnidipine
+Cildip,cilnidipine
+Monotrate,isosorbide mononitrate
+Monit,isosorbide mononitrate
+Isordil,isosorbide dinitrate
+Sorbitrate,isosorbide dinitrate
+Dilzem,diltiazem
+Dilzem 30,diltiazem
+Angizem,diltiazem
+Cardizem,diltiazem
+Diltime,diltiazem
+Cordarone,amiodarone
+Duron,amiodarone
+Cardinorm,amiodarone
+Voveran,diclofenac
+Voveran SR,diclofenac
+Dynapar,diclofenac
+Diclowin,diclofenac
+Reactin,diclofenac
+Zerodol,aceclofenac
+Zerodol P,aceclofenac
+Hifenac,aceclofenac
+Acemiz,aceclofenac
+Ibugesic,ibuprofen
+Ibugesic Plus,ibuprofen
+Brufen,ibuprofen
+Brufen 400,ibuprofen
+Combiflam,ibuprofen
+Nicip,nimesulide
+Nise,nimesulide
+Nimulid,nimesulide
+Sumo,nimesulide
+Dolamide,nimesulide
+Meftal,mefenamic acid
+Meftal Spas,mefenamic acid
+Meftagesic,mefenamic acid
+Zerodol SP,aceclofenac
+Chymoral Forte,trypsin
+Chymoral AP,trypsin
+Lysoflam,serratiopeptidase
+Bidanzen,serratiopeptidase
+Disperzyme,serratiopeptidase
+Enzoflam,serratiopeptidase
+Combiflam,ibuprofen
+Spasmo Proxyvon,dicyclomine
+Cyclopam,dicyclomine
+Cyclospas,dicyclomine
+Spasmonil,dicyclomine
+Colimex,dicyclomine
+Buscogast,hyoscine
+Buscopan,hyoscine
+Hyocimax,hyoscine
+Drotin,drotaverine
+Drotin-M,drotaverine
+Doverin,drotaverine
+Ganaton,itopride
+Itoprid,itopride
+Itoflat,itopride
+Ganolta,itopride
+Motinorm,domperidone
+Domstal,domperidone
+Vomistop,domperidone
+Domped,domperidone
+Perinorm,metoclopramide
+Reglan,metoclopramide
+Vominorm,metoclopramide
+Ondem,ondansetron
+Emeset,ondansetron
+Vomikind,ondansetron
+Zofer,ondansetron
+Periset,ondansetron
+Vertin,betahistine
+Vertin 16,betahistine
+Vertin 24,betahistine
+Betavert,betahistine
+Neurocetam,piracetam
+Nootropil,piracetam
+Cetam,piracetam
+Dinace,piracetam
+Stugeron,cinnarizine
+Stugeron Forte,cinnarizine
+Cinzan,cinnarizine
+Vertigon,cinnarizine
+Phexin,cephalexin
+Cephadex,cephalexin
+Sporidex,cephalexin
+Alcephin,cephalexin
+Ospamox,amoxicillin
+Novamox,amoxicillin
+Moxikind,amoxicillin
+ Wymox,amoxicillin
+Almox,amoxicillin
+Ampilox,ampicillin
+Megapen,ampicillin
+Roscillin,ampicillin
+Campicillin,ampicillin
+Doxt,doxycycline
+Doxinate,doxycycline
+Doxy,doxycycline
+Microdox,doxycycline
+Doxy1,doxycycline
+Tetracycline,tetracycline
+Hostacycline,tetracycline
+Resteclin,tetracycline
+Minolox,minocycline
+Divaa,valproate
+Encorate,valproate
+Valparin,valproate
+Epival,valproate
+Valprol,valproate
+Tegrital,carbamazepine
+Mazetol,carbamazepine
+Zeptol,carbamazepine
+Carbatol,carbamazepine
+Zen,carbamazepine
+Eptoin,phenytoin
+Dilantin,phenytoin
+Carkid,phenytoin
+Stoin,phenytoin
+Phenykem,phenytoin
+Levipil,levetiracetam
+Levera,levetiracetam
+Torleva,levetiracetam
+Levipil 500,levetiracetam
+Epilex,levetiracetam
+Lamitor,lamotrigine
+Lamosyn,lamotrigine
+Lamez,lamotrigine
+Lametec,lamotrigine
+Gabapin,gabapentin
+Gabantin,gabapentin
+Neurontin,gabapentin
+Gabamax,gabapentin
+Gabatop,gabapentin
+Pregaba,pregabalin
+Pregabid,pregabalin
+Lyrica,pregabalin
+Nervup,pregabalin
+Maxgalin,pregabalin
+Topamac,topiramate
+Topaz,topiramate
+Nextop,topiramate
+Topirol,topiramate
+Oxetol,oxcarbazepine
+Oxcarb,oxcarbazepine
+Oleptal,oxcarbazepine
+Zebinix,eslicarbazepine
+Alprax,alprazolam
+Alprax 0.25,alprazolam
+Alprax 0.5,alprazolam
+Restyl,alprazolam
+Trika,alprazolam
+Anxit,alprazolam
+Lopez,lorazepam
+Ativan,lorazepam
+Lorel,lorazepam
+Trapex,lorazepam
+Zapiz,clonazepam
+Clonotril,clonazepam
+Rivotril,clonazepam
+Lonazep,clonazepam
+Clonafit,clonazepam
+Dizepam,diazepam
+Valium,diazepam
+Calmpose,diazepam
+Zepose,diazepam
+Placidox,diazepam
+Ativan,lorazepam
+Zolax,alprazolam
+Nexito,escitalopram
+Nexito 10,escitalopram
+S Citadep,escitalopram
+Feliz S,escitalopram
+Reco,escitalopram
+C-Pram S,escitalopram
+Fludac,fluoxetine
+Flunil,fluoxetine
+Prozac,fluoxetine
+Flutop,fluoxetine
+Prodep,fluoxetine
+Serta,sertraline
+Daxid,sertraline
+Serenata,sertraline
+Serlift,sertraline
+Zosert,sertraline
+Pexep,paroxetine
+Pari CR,paroxetine
+Xet,paroxetine
+Parotin,paroxetine
+Fluvoxin,fluvoxamine
+Faverin,fluvoxamine
+Voxamin,fluvoxamine
+Venlift,venlafaxine
+Veniz XR,venlafaxine
+Effexor,venlafaxine
+Ventab,venlafaxine
+D-Veniz,desvenlafaxine
+Duzela,duloxetine
+Dulane,duloxetine
+Dulot,duloxetine
+Symbal,duloxetine
+Cymbalta,duloxetine
+Mirnite,mirtazapine
+Mirtaz,mirtazapine
+Mirtazep,mirtazapine
+Mirtadep,mirtazapine
+Tryptomer,amitriptyline
+Amitone,amitriptyline
+Amitor,amitriptyline
+Sarotena,amitriptyline
+Tryptol,amitriptyline
+Spenzo,imipramine
+Depsonil,imipramine
+Antidep,imipramine
+Tofranil,imipramine
+Norventyl,nortriptyline
+Sensival,nortriptyline
+Pregastar,pregabalin
+Qt,quetiapine
+Qutan,quetiapine
+Quel,quetiapine
+Seroquin,quetiapine
+Seroquel,quetiapine
+Sizodon,risperidone
+Risdone,risperidone
+Respidon,risperidone
+Rispid,risperidone
+Risperdal,risperidone
+Oleanz,olanzapine
+Olanex,olanzapine
+Olapin,olanzapine
+Ozapin,olanzapine
+Zyprexa,olanzapine
+Arip MT,aripiprazole
+Arive,aripiprazole
+Aripra,aripiprazole
+Asprito,aripiprazole
+Abilify,aripiprazole
+Zosert,sertraline
+Amisulpride,amisulpride
+Sulpitac,amisulpride
+Solipride,amisulpride
+Sulpace,amisulpride
+Halopidol,haloperidol
+Hexidol,haloperidol
+Serenace,haloperidol
+Largactil,chlorpromazine
+Megatil,chlorpromazine
+Thorazine,chlorpromazine
+Pacitane,trihexyphenidyl
+Parkin,trihexyphenidyl
+Paracip,trihexyphenidyl
+Artane,trihexyphenidyl
+Reclide,gliclazide
+Reclide MR,gliclazide
+Diamicron,gliclazide
+Glyree,gliclazide
+Glycinorm,gliclazide
+Euglucon,glibenclamide
+Daonil,glibenclamide
+Glyburide,glibenclamide
+Betanase,glibenclamide
+Semi Daonil,glibenclamide
+Glyciphage,metformin
+Obimet,metformin
+Xmet,metformin
+Metlong,metformin
+Riomet,metformin
+Cetapin,metformin
+Voglibose,voglibose
+Volibo,voglibose
+Vobose,voglibose
+Voglitab,voglibose
+Acarbose,acarbose
+Glucobay,acarbose
+Glucar,acarbose
+Acarex,acarbose
+Miglitol,miglitol
+Eurepa,repaglinide
+Rapilin,repaglinide
+Regan,repaglinide
+Eurepa 1,repaglinide
+Starlix,nateglinide
+Nateglinide,nateglinide
+Galvus,vildagliptin
+Jalra,vildagliptin
+Zomelis,vildagliptin
+Vilda,vildagliptin
+Onglyza,saxagliptin
+Saxagliptin,saxagliptin
+Trajenta,linagliptin
+Undera,linagliptin
+Linita,linagliptin
+Jardiance,empagliflozin
+Gibtulio,empagliflozin
+Jardiance Duo,empagliflozin
+Forxiga,dapagliflozin
+Oxra,dapagliflozin
+Dapa,dapagliflozin
+Invokana,canagliflozin
+Sulisent,canagliflozin
+Steglatro,ertugliflozin
+Trulicity,dulaglutide
+Victoza,liraglutide
+Saxenda,liraglutide
+Bydureon,exenatide
+Byetta,exenatide
+Ozempic,semaglutide
+Rybelsus,semaglutide
+Wegovy,semaglutide
+Lantus,insulin glargine
+Basaglar,insulin glargine
+Toujeo,insulin glargine
+Lantus Solostar,insulin glargine
+Humalog,insulin lispro
+Humalog Mix,insulin lispro
+Novolog,insulin aspart
+Novolog Mix,insulin aspart
+Apidra,insulin glulisine
+Novomix,insulin aspart
+Huminsulin,insulin
+Actrapid,insulin
+Mixtard,insulin
+Insugen,insulin
+Wosulin,insulin
+Levemir,insulin detemir
+Tresiba,insulin degludec
+Ryzodeg,insulin degludec
+Xultophy,insulin degludec
+Soliqua,insulin glargine
+Feburic,febuxostat
+Febuget,febuxostat
+Zurig,febuxostat
+Febutaz,febuxostat
+Zyloric,allopurinol
+Zyloprim,allopurinol
+Aloric,allopurinol
+Cortil,prednisolone
+Wysolone,prednisolone
+Omnacortil,prednisolone
+Deltacortril,prednisolone
+Predmet,prednisolone
+Dexona,dexamethasone
+Decdan,dexamethasone
+Dexasone,dexamethasone
+Wymesone,dexamethasone
+Betnesol,betamethasone
+Betamil,betamethasone
+Betnovate,betamethasone
+Kenacort,triamcinolone
+Ledercort,triamcinolone
+Tricort,triamcinolone
+Elocon,mometasone
+Momate,mometasone
+Metaspray,mometasone
+Topcort,mometasone
+Flucort,fluocinolone
+Flutivate,fluticasone
+Fluticone,fluticasone
+Flixonase,fluticasone
+Cutivate,fluticasone
+Beclate,beclomethasone
+Beclomet,beclomethasone
+Beclovent,beclomethasone
+Budecort,budesonide
+Budez,budesonide
+Foracort,budesonide
+Pulmicort,budesonide
+Duolin,ipratropium
+Ipravent,ipratropium
+Ipratrop,ipratropium
+Duolin Respules,ipratropium
+Levolin,levosalbutamol
+Asthalin,salbutamol
+Ventorlin,salbutamol
+Salbair,salbutamol
+Bronkotab,salbutamol
+Deriphyllin,etophylline
+Theo Asthalin,etophylline
+Etophyllin,etophylline
+Derisone,etophylline
+Terbutaline,terbutaline
+Bricanyl,terbutaline
+Broncomax,terbutaline
+Ascoril,Dextromethorphan
+Ascoril LS,levosalbutamol
+Ascoril D,Dextromethorphan
+Bro-Zedex,bromhexine
+Benadryl,diphenhydramine
+Tixylix,diphenhydramine
+Corex,codeine
+Phensedyl,codeine
+Codistar,codeine
+Grilinctus,codeine
+Torex,dextromethorphan
+Tus-Q,dextromethorphan
+Zedex,dextromethorphan
+Alex,phenylephrine
+Sinarest,phenylephrine
+Wikoryl,phenylephrine
+Cofsils,ambroxol
+Mucosolvan,ambroxol
+Mucolite,ambroxol
+Ambrolite,ambroxol
+Ambroxol,ambroxol
+Montair,montelukast
+Montair LC,montelukast
+Montek,montelukast
+Montas,montelukast
+Montemac,montelukast
+Romilast,montelukast
+Odicef,cefadroxil
+Cefadur,cefadroxil
+Keflex,cephalexin
+Droxy,cefadroxil
+Cefakind,cefuroxime
+Ceftum,cefuroxime
+Zinacef,cefuroxime
+Supacef,cefuroxime
+Altacef,cefuroxime
+Cefix,cefixime
+Mahacef,cefixime
+Cefolac,cefixime
+Cefiwok,cefixime
+Opox,cefpodoxime
+Cepodem,cefpodoxime
+Zedocef,cefpodoxime
+Swich,cefpodoxime
+Gudcef,cefpodoxime
+Monocef,ceftriaxone
+Oframax,ceftriaxone
+C-Tri,ceftriaxone
+Cefaxone,ceftriaxone
+Cefbact,ceftriaxone
+Magnex,cefoperazone
+Magnamycin,cefoperazone
+Cefolife,cefoperazone
+Cefactam,cefoperazone
+Ceftas,ceftazidime
+Fortum,ceftazidime
+Ceftum,ceftazidime
+Kefadim,ceftazidime
+Clindac,clindamycin
+Dalacin,clindamycin
+Clind,clindamycin
+Cleocin,clindamycin
+Clincin,clindamycin
+Metrogyl,metronidazole
+Flagyl,metronidazole
+Metron,metronidazole
+Aristogyl,metronidazole
+Metrogyl 400,metronidazole
+Tiniba,tinidazole
+Tinidazole,tinidazole
+Fasigyn,tinidazole
+Tindamax,tinidazole
+Seczol,secnidazole
+Secnil,secnidazole
+Secwid,secnidazole
+Secnizol,secnidazole
+Ornidazole,ornidazole
+Dazolic,ornidazole
+Ornida,ornidazole
+Zynol,ornidazole
+Oflox,ofloxacin
+Oflox 400,ofloxacin
+Zanocin,ofloxacin
+Tarivid,ofloxacin
+Oflomac,ofloxacin
+Norflox,norfloxacin
+Noroxin,norfloxacin
+Negaflox,norfloxacin
+Norflox 400,norfloxacin
+Levoflox,levofloxacin
+Levoquin,levofloxacin
+L-Cin,levofloxacin
+Levoday,levofloxacin
+Tavanic,levofloxacin
+Sparflo,sparfloxacin
+Zospar,sparfloxacin
+Sparx,sparfloxacin
+Moxiflox,moxifloxacin
+Mahaflox,moxifloxacin
+Moxicip,moxifloxacin
+Avelox,moxifloxacin
+Gemiflox,gemifloxacin
+Gemi,gatifloxacin
+Tequin,gatifloxacin
+Zymar,gatifloxacin
+Nitrofurantoin,nitrofurantoin
+Furadantin,nitrofurantoin
+Niftas,nitrofurantoin
+Martifur,nitrofurantoin
+Linezolid,linezolid
+Linospan,linezolid
+Lizolid,linezolid
+Zyvox,linezolid
+Cycloserine,cycloserine
+Seromycin,cycloserine
+Ethambutol,ethambutol
+Combutol,ethambutol
+Mycobutol,ethambutol
+Myambutol,ethambutol
+R-Cinex,rifampicin
+Rifampicin,rifampicin
+R-Cin,rifampicin
+Rifacin,rifampicin
+Rimactane,rifampicin
+Isoniazid,isoniazid
+Isonex,isoniazid
+Solonex,isoniazid
+Pyrazinamide,pyrazinamide
+Pyzina,pyrazinamide
+PZA-Ciba,pyrazinamide
+Streptomycin,streptomycin
+Ambistryn,streptomycin
+Kanamycin,kanamycin
+Amikacin,amikacin
+Mikacin,amikacin
+Amikaf,amikacin
+Amicin,amikacin
+Capreomycin,capreomycin
+Capastat,capreomycin
+Bedaquiline,bedaquiline
+Sirturo,bedaquiline
+Delamanid,delamanid
+Deltyba,delamanid
+Pretomanid,pretomanid
+Lamivudine,lamivudine
+3TC,lamivudine
+Heptavir,lamivudine
+Zidovudine,zidovudine
+Retrovir,zidovudine
+Zidovir,zidovudine
+Abacavir,abacavir
+Ziagen,abacavir
+Tenofovir,tenofovir
+Tavin,tenofovir
+Tenvir,tenofovir
+Viread,tenofovir
+Emtricitabine,emtricitabine
+Emtriva,emtricitabine
+Nevirapine,nevirapine
+Nevimune,nevirapine
+Viramune,nevirapine
+Efavirenz,efavirenz
+Efv,efavirenz
+Sustiva,efavirenz
+Etravirine,etravirine
+Intelence,etravirine
+Rilpivirine,rilpivirine
+Edurant,rilpivirine
+Lopinavir,lopinavir
+Kaletra,lopinavir
+Atazanavir,atazanavir
+Reyataz,atazanavir
+Darunavir,darunavir
+Prezista,darunavir
+Raltegravir,raltegravir
+Isentress,raltegravir
+Dolutegravir,dolutegravir
+Tivicay,dolutegravir
+Bictegravir,bictegravir
+Biktarvy,bictegravir
+Elvitegravir,elvitegravir
+Vitekta,elvitegravir
+Cobicistat,cobicistat
+Tybost,cobicistat
+Maraviroc,maraviroc
+Celsentri,maraviroc
+Enfuvirtide,enfuvirtide
+Fuzeon,enfuvirtide
+Acyclovir,acyclovir
+Acivir,acyclovir
+Zovirax,acyclovir
+Herperax,acyclovir
+Valcivir,valacyclovir
+Valvir,valacyclovir
+Valtrex,valacyclovir
+Valcept,valacyclovir
+Famciclovir,famciclovir
+Famvir,famciclovir
+Famtrex,famciclovir
+Ganciclovir,ganciclovir
+Cytovene,ganciclovir
+Valganciclovir,valganciclovir
+Valcyte,valganciclovir
+Oseltamivir,oseltamivir
+Tamiflu,oseltamivir
+Fluvir,oseltamivir
+Natflu,oseltamivir
+Zanamivir,zanamivir
+Relenza,zanamivir
+Peramivir,peramivir
+Rapivab,peramivir
+Baloxavir,baloxavir
+Xofluza,baloxavir
+Ribavirin,ribavirin
+Virazole,ribavirin
+Rebetol,ribavirin
+Sofosbuvir,sofosbuvir
+Sovaldi,sofosbuvir
+Hepcinat,sofosbuvir
+Myhep,sofosbuvir
+Ledipasvir,ledipasvir
+Harvoni,ledipasvir
+Velpatasvir,velpatasvir
+Epclusa,velpatasvir
+Voxilaprevir,voxilaprevir
+Vosevi,voxilaprevir
+Glecaprevir,glecaprevir
+Mavyret,glecaprevir
+Pibrentasvir,pibrentasvir
+Entecavir,entecavir
+Baraclude,entecavir
+X-Vir,entecavir
+Adefovir,adefovir
+Hepsera,adefovir
+Telbivudine,telbivudine
+Sebivo,telbivudine
+Interferon,interferon
+PegIntron,peginterferon
+Pegasys,peginterferon
+Intron A,interferon
+zincovit,multivitamin
+vitamin c,ascorbic acid
+Gelusil,Antacid
+Sucral,Suralfate
