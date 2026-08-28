@@ -183,13 +183,15 @@ Add screenshots of:
 
 ---
 
-# Authors
+# Author
 
-**Shailaja P C**
+**Baby L N**
 
 Department of Artificial Intelligence & Machine Learning
 
 PES University
+
+Banglore
 
 ---
 
